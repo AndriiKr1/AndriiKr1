@@ -19,7 +19,5 @@ Ich bin ein Fullstack-Entwickler mit Leidenschaft für die Entwicklung moderner 
 
 
 
-## Über mich
-Ich bin motiviert, in internationalen Teams zu arbeiten und bringe Kenntnisse in Technical English sowie DSGVO mit, was für den europäischen Markt besonders relevant ist. In meiner Freizeit beschäftige ich mich gerne mit Open-Source-Projekten und neuen Technologien.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndriiKr1&show_icons=true&theme=radical)
