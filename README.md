@@ -1,4 +1,4 @@
-# Hallo, ich bin Andrii Kryshtapovych! 👋
+# Hallo, ich bin Andrii! 👋
 
 Ich bin ein Fullstack-Entwickler mit Leidenschaft für die Entwicklung moderner und skalierbarer Webanwendungen. 
 
